@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pavan H S</h1>
-
+<p align="center">
+<h2>>Full Stack Developer • Software Engineer • AI Enthusiast</h2>
+</p>
 
 <h2>🧑‍💻 About Me</h2>
 <ul>
@@ -82,14 +84,9 @@
   </a>
 
 
-<hr>
-
 <h3 align="center">
 🚀 Building scalable software, cloud-native applications, and AI-powered solutions.
 </h3>
 
-<p align="center">
-Full Stack Developer • Software Engineer • AI Enthusiast
-</p>
 
 <hr>
