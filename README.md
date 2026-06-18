@@ -27,13 +27,13 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery" />
 </p>
 
 ### Backend
@@ -50,8 +50,11 @@
 
 ### Cloud & Tools
 
+### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
 ### AI / ML
