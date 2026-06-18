@@ -83,9 +83,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanhs01&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <h3 align="center">
 💡 "Building scalable software and intelligent systems, one project at a time."
