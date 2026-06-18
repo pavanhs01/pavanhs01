@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Pavan H S</h1>
 <p align="center">
-<h2>Full Stack Developer • Software Engineer • AI Enthusiast</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Software+Engineer+💻;AI+Enthusiast+🤖;AWS+Cloud+Learner+☁️;Agentic+AI+Explorer+🧠" />
 </p>
 
 <hr>
