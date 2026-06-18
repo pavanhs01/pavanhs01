@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pavan H S</h1>
 
-<hr>
 
 <h2>🧑‍💻 About Me</h2>
 <ul>
@@ -59,7 +58,6 @@
 
 ---
 
-<hr>
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -67,23 +65,25 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanhs01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-</hr>
-
+<hr>
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/pavan-gowda-04vk18">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://pavan-hs-portfolio-msa7.arcada.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/pavanhs01">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
 
+  <a href="https://pavan-hs-portfolio-msa7.arcada.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/pavanhs01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+<hr>
 
 <h3 align="center">
 💡 "Building scalable software and intelligent systems, one project at a time."
 </h3>
+<hr>
