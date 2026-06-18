@@ -66,7 +66,7 @@
 </p>
 
 <hr>
-## 🤝 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-gowda-04vk18">
@@ -81,9 +81,15 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+
 <hr>
 
 <h3 align="center">
-💡 "Building scalable software and intelligent systems, one project at a time."
+🚀 Building scalable software, cloud-native applications, and AI-powered solutions.
 </h3>
+
+<p align="center">
+Full Stack Developer • Software Engineer • AI Enthusiast
+</p>
+
 <hr>
