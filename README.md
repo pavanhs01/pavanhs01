@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I'm Pavan H S</h1>
 <p align="center">
-<h2>>Full Stack Developer • Software Engineer • AI Enthusiast</h2>
+<h2>Full Stack Developer • Software Engineer • AI Enthusiast</h2>
 </p>
+
+<hr>
 
 <h2>🧑‍💻 About Me</h2>
 <ul>
