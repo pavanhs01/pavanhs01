@@ -24,7 +24,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,SQL" />
 </p>
 
 ### Frontend
@@ -46,8 +46,6 @@
 </p>
 
 ### Cloud & Tools
-
-### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode" />
